@@ -2,7 +2,7 @@
   "name": "skeleton-css",
   "version": "2.0.4",
   "description": "npm installer for Skeleton with normalize.css",
-  "style": "skeleton/css/skeleton.css",
+  "style": "css/skeleton.css",
   "repository": {
     "type": "git",
     "url": "https://github.com/pgrimard/Skeleton.git"
